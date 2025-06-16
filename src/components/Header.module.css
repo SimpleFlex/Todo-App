@@ -1,0 +1,8 @@
+.Header {
+  background-color: black;
+  color: white;
+  height: 4rem;
+  padding-top: 15px;
+  text-align: center;
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2);
+}
